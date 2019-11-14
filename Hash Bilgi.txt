@@ -1,0 +1,2 @@
+Hash fonksiyonu kitap id sininin mod 30 deðerine 1 eklenmesidir.
+kitapId%30+1
