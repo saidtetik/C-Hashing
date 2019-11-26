@@ -1,9 +1,3 @@
-/*
- * Muhammed Said TETİK
- * 1306160076
- * İstanbul Universitesi-Cerrahpaşa
- * 01.05.2019
- */
 
 
 
